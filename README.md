@@ -12,7 +12,7 @@
 - Change Playlist Title — users can change the title of their custom playlist.
 - Save Playlist to Account — users can save their custom playlist by clicking a button called SAVE TO SPOTIFY.
 
-III. **Resources**
+**Resources**
 
 - > Because we want you to focus on building the React infrastructure, we have provided links to the HTML/CSS and visual assets below. Notice, we did not break the HTML and CSS into their components. To complete the project you will need to split the HTML/CSS into their components.
   > <br> [index.html](https://s3.amazonaws.com/codecademy-content/programs/react/jammming/static-html-css/indexHtml.txt) — all of the HTML for a static version of the website.
